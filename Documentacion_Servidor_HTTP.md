@@ -249,7 +249,7 @@ Muestra la configuración por defecto de este archivo.
 
 ![Ver configuración del archivo](./img/Imagen_20.PNG)
 
-4. gunas configuraciones de ejemplo de un archivo de host virtual: **/etc/apache2/sites-available/000-default.conf**:
+4. Algunas configuraciones de ejemplo de un archivo de host virtual: **/etc/apache2/sites-available/000-default.conf**:
 
 ~~~
 <VirtualHost *:80>
@@ -1034,7 +1034,7 @@ Require valid-user
 
 ![Comprobar que resuelve el nombre](./img/Imagen_144.PNG)
 
-3. Ahora podemos probar el sitio web tanto por terminal en **Servidor** y **Casa** como el navegador desde **Caas**. Primero podemos acceder a la dirección **http://misitio.com** y y comprobar que la web funciona con normalidad. Después podemos acceder a **http://misitio.com/confidencial** y comprobar como aparece una ventana solicitando que nos identificamos mediante un usuario y una contraseña.
+3. Ahora podemos probar el sitio web tanto por terminal en **Servidor** y **Casa** como el navegador desde **Casa**. Primero podemos acceder a la dirección **http://misitio.com** y y comprobar que la web funciona con normalidad. Después podemos acceder a **http://misitio.com/confidencial** y comprobar como aparece una ventana solicitando que nos identificamos mediante un usuario y una contraseña.
 
 ![Ver página web](./img/Imagen_145.PNG)
 
